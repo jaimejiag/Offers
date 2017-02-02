@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_order_type"
+        android:title="Ordenar por tipo"
+        android:icon="@mipmap/ic_order_type"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_order_asc"
+        android:title="Ordenar por ascenso"
+        android:icon="@mipmap/ic_order_asc"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_order_des"
+        android:title="Ordenar por descenso"
+        android:icon="@mipmap/ic_order_desc"
+        app:showAsAction="always"/>
+</menu>

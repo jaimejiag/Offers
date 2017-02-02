@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Offering</string>
+
+    <string-array name="type">
+        <item>Hogar</item>
+        <item>Electrónica</item>
+        <item>Deporte</item>
+    </string-array>
+
+    <string-array name="importance">
+        <item>Poco importante</item>
+        <item>Importante</item>
+        <item>Muy importante</item>
+    </string-array>
+
+</resources>
